@@ -2,16 +2,19 @@
 [alias]
 	i = init
 	st = status
+	a = add
 	aa = add -A
 	ct = commit -m
 	co = checkout
 	lg = log
 	ph = push
 	pl = pull
+	rt = remote
 	sw = show
 	bh = branch
 	ce = clone
 	rt = reset
 	sch = switch
 	fch = fetch
+	alias = config --get-regexp ^alias\\.
 # Continuara...
