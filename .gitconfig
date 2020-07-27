@@ -9,6 +9,7 @@
 	ph = push
 	pl = pull
 	rt = remote
+	rsu = remote set_url origin
 	sw = show
 	bh = branch
 	ce = clone
@@ -16,4 +17,4 @@
 	sch = switch
 	fch = fetch
 	alias = config --get-regexp ^alias\\.
-# Continuara...
+# Continuará...
