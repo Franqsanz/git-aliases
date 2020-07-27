@@ -9,7 +9,7 @@
 	ph = push
 	pl = pull
 	rt = remote
-	rsu = remote set_url origin
+	rsu = remote set-url origin
 	sw = show
 	bh = branch
 	ce = clone
