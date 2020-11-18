@@ -17,4 +17,3 @@
 	sch = switch
 	fch = fetch
 	alias = config --get-regexp ^alias\\.
-# Continuará...
